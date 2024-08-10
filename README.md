@@ -18,4 +18,6 @@ This tool is designed to help University of Macau students with course selection
 ### Installation
 
 1. Clone the repository:
+'''python
 git clone https://github.com/yourusername/um-course-scheduler.git
+'''
