@@ -18,6 +18,7 @@ Note that web page structures may change over time. You might need to update the
 
 ```
 cd tools
+conda create -n UMADA python
 pip install -r requirements.txt
 jupyter notebook
 ```
