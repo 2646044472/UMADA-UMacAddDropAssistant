@@ -9,7 +9,7 @@ This tool is designed to help University of Macau students with course selection
 ## Features
 
 - Integration of timetable data from CSV files
-- Course recommendations based on user preferences and course ratings
+- Course recommendations based on user's own timetable, preferences and course ratings
 - Visual representation of the suggested schedule
 
 ## Getting Started
@@ -36,6 +36,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
+4. Open ```main.ipynb``` to start
 
 ## Disclaimer
 
