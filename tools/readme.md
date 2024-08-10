@@ -14,6 +14,7 @@ This project is for educational purposes only. Users are responsible for ensurin
 
 Note that web page structures may change over time. You might need to update the scraping code accordingly if you encounter any issues.
 
+# Getting starts
 
 ```
 cd tools
