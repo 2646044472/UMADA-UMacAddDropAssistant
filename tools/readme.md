@@ -13,13 +13,3 @@ Please note that teacher ratings are frequently updated. The provided code allow
 This project is for educational purposes only. Users are responsible for ensuring their use of this tool complies with UM's policies and relevant regulations. The project is not responsible for any consequences resulting from misuse or excessive scraping activities.
 
 Note that web page structures may change over time. You might need to update the scraping code accordingly if you encounter any issues.
-
-# Getting starts
-
-```
-cd tools
-conda create -n UMADA python
-conda activate UMADA
-pip install -r requirements.txt
-jupyter notebook
-```
