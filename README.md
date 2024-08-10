@@ -17,7 +17,7 @@ This tool is designed to help University of Macau students with course selection
 ### Prerequisites
 
 - Web browser (Edge recommended)
-- Basic local environment (Jupyter notebook recommended)
+- Basic local environment (Anaconda recommended)
 
 ### Installation
 
