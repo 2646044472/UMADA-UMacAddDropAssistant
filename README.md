@@ -1,4 +1,4 @@
-# UMac-AddDropAssistant
+# UMADA-UMacAddDropAssistant
 
 This tool is designed to help University of Macau students with course selection and scheduling. It provides a user-friendly interface to input preferences and view suggested schedules based on timetable data and course ratings.
 
