@@ -27,5 +27,8 @@ cd UMADA-UMacAddDropAssistant
 conda create -n UMADA python
 conda activate UMADA
 pip install -r requirements.txt
+```
+3. Start jupyter notebook:
+```
 jupyter notebook
 ```
