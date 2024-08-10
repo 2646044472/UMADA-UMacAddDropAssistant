@@ -1,6 +1,6 @@
 # Tools
 
-Please note that teacher ratings are frequently updated. So codes are provided that allows you to fetch the most recent data. However, use the scraper responsibly and set appropriate intervals between scraping sessions to avoid overloading the server.
+Please note that teacher ratings are frequently updated, so codes that allows you to fetch the most recent data are provided. However, use the scraper responsibly and set appropriate intervals between scraping sessions to avoid overloading the server.
 
 The main components are:
 1. `scrabble.ipynb`: A Jupyter notebook file for collecting teacher ratings.
