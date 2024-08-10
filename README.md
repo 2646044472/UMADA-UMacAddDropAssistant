@@ -19,5 +19,5 @@ This tool is designed to help University of Macau students with course selection
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/um-course-scheduler.git
+git clone https://github.com/2646044472/UMac-AddDropAssistant
 ```
