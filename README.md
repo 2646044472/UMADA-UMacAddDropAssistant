@@ -19,5 +19,6 @@ This tool is designed to help University of Macau students with course selection
 
 1. Clone the repository:
 ```
-git clone https://github.com/2646044472/UMac-AddDropAssistant
+git clone https://github.com/2646044472/UMADA-UMacAddDropAssistant
+cd UMADA-UMacAddDropAssistant
 ```
