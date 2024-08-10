@@ -1,4 +1,4 @@
-# tools
+# Tools
 
 This project aims to collect and analyze course ratings for the University of Macau (UM). It includes tools for web scraping teacher ratings and merging this data with course schedules.
 
