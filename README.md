@@ -22,9 +22,8 @@ This tool is designed to help University of Macau students with course selection
 git clone https://github.com/2646044472/UMADA-UMacAddDropAssistant
 cd UMADA-UMacAddDropAssistant
 ```
-2. Create the virtual environment
+2. Create the virtual environment:
 ```
-cd tools
 conda create -n UMADA python
 conda activate UMADA
 pip install -r requirements.txt
