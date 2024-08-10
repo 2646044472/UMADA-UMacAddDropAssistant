@@ -36,3 +36,7 @@ pip install -r requirements.txt
 ```
 jupyter notebook
 ```
+
+## Disclaimer
+
+The ratings provided do not objectively reflect a professor's teaching quality. Therefore, the suggestions offered by this project are for reference only.
